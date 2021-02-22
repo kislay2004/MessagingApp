@@ -1,6 +1,6 @@
-#Message Rest API - Using SpringBoot 
+# Message Rest API - Using SpringBoot 
 
-##Introduction
+## Introduction
 
 The API depicts below messaging user access flows:
 
@@ -17,7 +17,7 @@ It is a maven based build. So, below command can be used to run the app:
 Alternatively, one can run it via `MessagingApplication` class and run the `main` method. 
  
 
-##Documentation
+## Documentation
 
 Its a work in progress- expect a swagger based documentation.
  
