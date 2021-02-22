@@ -11,6 +11,7 @@ import java.util.List;
 //TODO: Add swagger docs.
 //TODO: Add Spring security  and related error handling.
 //TODO: Add configuration based, repo/other env config support.
+//TODO: Add Eureka (actuator), Hystrix support for fail-over management.
 //TODO: Add lombok
 //TODO: Add Tests - using embedded mongo may be!?
 
